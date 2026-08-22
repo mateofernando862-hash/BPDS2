@@ -150,4 +150,7 @@ Esta frase se debe de quedar en el readme
 
 Este repositorio corresponde al proyecto desarrollado para la asignatura BPDS de la Universidad de la Costa.
 En él se trabaja el desarrollo y organización de un proyecto de Software, aplicando buenas prácticas de programación
-y utilizando Git y Github para gestionar veriones, ramas, cambios y la integración del proyecto. 
+y utilizando Git y Github para gestionar veriones, ramas, cambios y la integración del proyecto.
+
+Práctica de ramas, Pull Request y conflictos en Github.
+:DD
